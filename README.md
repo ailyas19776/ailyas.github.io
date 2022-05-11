@@ -1,14 +1,14 @@
 # ailyas19776.github.io
 
 # Project 1 -- Working on Lapce Software Tool
-https://github.com/lapce.lapce.git
+[Link to Project 1](https://github.com/lapce.lapce.git)
 
 # Project 2 -- Backtracking Maze using Stack & Queues
-https://github.com/ailyas19776/Backtrack_Maze_Tool
+[Link to Project 2](https://github.com/ailyas19776/Backtrack_Maze_Tool)
 
 # Project 3 -- JQuery Game
-https://github.com/ailyas19776/JQuery_Game
+[Link to Project 3](https://github.com/ailyas19776/JQuery_Game)
 
 # Project 4 -- Cache Simluation
-<a href = https://github.com/ailyas19776/Caches> Click here </a> 
+[Link to Project 4](https://github.com/ailyas19776/Caches)
 
