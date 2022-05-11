@@ -1,7 +1,7 @@
 # ailyas19776.github.io
 
 # Project 1 -- Working on Lapce Software Tool
-[Link to Project 1](https://github.com/lapce.lapce.git)
+[Link to Project 1](https://github.com/lapce/lapce.git)
 
 # Project 2 -- Backtracking Maze using Stack & Queues
 [Link to Project 2](https://github.com/ailyas19776/Backtrack_Maze_Tool)
