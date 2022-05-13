@@ -24,8 +24,8 @@
 
 
 ### Project 8 -- Length Extension Attack 
-[Link to Project 7](https://drive.google.com/drive/folders/1bIJ-g3KYgcbN5O8K_Y4kLUR_0jH2lnxN?usp=sharing)
+[Source Files to Length Extension Attack](https://drive.google.com/drive/folders/1C5yte7S9jeEmaQT6XVErcgWpSwukQdXX?usp=sharing)
 
 ### Project 9 -- Buffer Overflow Attack 
-[Link to Project 8](https://drive.google.com/drive/folders/1bIJ-g3KYgcbN5O8K_Y4kLUR_0jH2lnxN?usp=sharing)
+[Source Files for Buffer Overflow Attack](https://drive.google.com/drive/folders/1hygs05kE39-tGrmePeRr5qyZtlhrUXps?usp=sharing)
 
