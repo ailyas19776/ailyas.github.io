@@ -15,10 +15,10 @@
 ### Project 5 -- JQuery Game
 [Game Development](https://github.com/ailyas19776/JQuery_Game)
 
-### Project 6 -- Cache Simluation
+### Project 6 -- Cache Hwardware Simluation
 [Simulated Cache Source File](https://drive.google.com/drive/folders/1bIJ-g3KYgcbN5O8K_Y4kLUR_0jH2lnxN?usp=sharing)
 
-### Project 7 -- Pipeline Simluation
+### Project 7 -- Pipeline CPU Hardware Simluation
 [Simulated Pipeline Source File](https://drive.google.com/drive/folders/1bIJ-g3KYgcbN5O8K_Y4kLUR_0jH2lnxN?usp=sharing)
 
 
