@@ -1,7 +1,7 @@
 # ailyas19776.github.io
 
 ### Project 1 -- Lapce Software Tool
-[Link to Project 1](https://github.com/lapce/lapce.git)
+[Lapce Text Editor](https://github.com/lapce/lapce.git)
 
 ### Project 2 -- Backtracking Maze using Stack & Queues
 [Link to Project 2](https://github.com/ailyas19776/Backtrack_Maze_Tool)
@@ -13,14 +13,13 @@
 [Link to Project 4](https://github.com/ailyas19776/Backtrack_Maze_Tool)
 
 ### Project 5 -- JQuery Game
-[Link to Project 4](https://github.com/ailyas19776/JQuery_Game)
+[Link for Game Source Files](https://github.com/ailyas19776/JQuery_Game)
 
 ### Project 6 -- Cache Simluation
-[Link to Project 5](https://drive.google.com/drive/folders/1bIJ-g3KYgcbN5O8K_Y4kLUR_0jH2lnxN?usp=sharing)
+[Link to Simulated Cache Source File](https://drive.google.com/drive/folders/1bIJ-g3KYgcbN5O8K_Y4kLUR_0jH2lnxN?usp=sharing)
 
 ### Project 7 -- Pipeline Simluation
-[Link to Project 6](https://drive.google.com/drive/folders/1bIJ-g3KYgcbN5O8K_Y4kLUR_0jH2lnxN?usp=sharing)
-
+[Link to Simulated Pipeline Source File](https://drive.google.com/drive/folders/1bIJ-g3KYgcbN5O8K_Y4kLUR_0jH2lnxN?usp=sharing)
 
 
 ### Project 8 -- Length Extension Attack 
