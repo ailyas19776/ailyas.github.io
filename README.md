@@ -4,10 +4,10 @@
 [Lapce Text Editor](https://github.com/lapce/lapce.git)
 
 ### Project 2 -- Backtracking Maze using Stack & Queues
-[Link to Project 2](https://github.com/ailyas19776/Backtrack_Maze_Tool)
+[Maze Program Source Files](https://github.com/ailyas19776/Backtrack_Maze_Tool)
 
-### Project 3 -- TSP & Pruning & Backtracking
-[Link to Project 3](https://github.com/ailyas19776/Backtrack_Maze_Tool)
+### Project 3 -- MST & TSP With Pruning & Backtracking
+[MST/TSP Source Files](https://github.com/ailyas19776/MST_TSP_BACKTRACKING)
 
 ### Project 4 -- Dictionary Keyword Search
 [Link to Project 4](https://github.com/ailyas19776/Backtrack_Maze_Tool)
