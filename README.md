@@ -18,21 +18,24 @@
 ### Project 6 -- JQuery Game
 [Game Development](https://github.com/ailyas19776/JQuery_Game)
 
-### Project 7 -- Cache Hardware Simluation
+### Project 7 -- Assembly to Machine Code
+[Assembly to Machine Code Converter](https://drive.google.com/drive/folders/1BZ2kKHM-j3ahywWaNtnk23QSaf9KYHYF?usp=sharing)
+
+### Project 8 -- Cache Hardware Simluation
 [Simulated Cache Source File](https://drive.google.com/drive/folders/1bIJ-g3KYgcbN5O8K_Y4kLUR_0jH2lnxN?usp=sharing)
 
-### Project 8 -- Pipeline CPU Hardware Simluation
+### Project 9 -- Pipeline CPU Hardware Simluation
 [Simulated Pipeline Source File](https://drive.google.com/drive/folders/1bIJ-g3KYgcbN5O8K_Y4kLUR_0jH2lnxN?usp=sharing)
 
 
-### Project 9 -- Length Extension Attack 
+### Project 10 -- Length Extension Attack 
 [Source Files for Length Extension Attack](https://drive.google.com/drive/folders/1C5yte7S9jeEmaQT6XVErcgWpSwukQdXX?usp=sharing)
 
-### Project 10 -- Buffer Overflow Attack 
+### Project 11 -- Buffer Overflow Attack 
 [Source Files for Buffer Overflow Attack](https://drive.google.com/drive/folders/1hygs05kE39-tGrmePeRr5qyZtlhrUXps?usp=sharing)
 
-### Project 11 -- Website Security & Exploitation
+### Project 12 -- Website Security & Exploitation
 [Source Files for Website Security & Exploitation](https://drive.google.com/drive/folders/10PAXsTnYLIwnQMhOWAWX9xg8xVX0EcoO?usp=sharing)
 
-### Project 12 -- Software Testing
+### Project 13 -- Software Testing
 [Software Testing Source Files](https://drive.google.com/drive/folders/1RTmY9p1YuE2KWwj0eUwTeWRPcX232XcT?usp=sharing)
