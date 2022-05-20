@@ -40,7 +40,7 @@
 ### Project 13 --- ARP (SYN & ACK) Spoofing Monitor
 [Source Files for ARP Spoof Checker](https://drive.google.com/drive/folders/1aTLd0zUfOQkh7_Qkh_6Ftl86g6qVETjr?usp=sharing)
 
-### Project 14 --- Network Protocols (DNS & HTTP) & Man in the Middle Attack (MITM)
+### Project 14 --- Network Protocols (DNS & HTTP) with Man in the Middle Attack (MITM)
 [Source Files for MITM Attack](https://drive.google.com/drive/folders/1E3hMGuQcfCY63tHFd0Sh5u0ZqaeXWu8x?usp=sharing)
 
 ### Project 15 -- Software Testing
