@@ -1,5 +1,10 @@
 # ailyas19776.github.io
 
+### Resume
+<img src="https://user-images.githubusercontent.com/97473935/190192754-644f6b48-fe4d-4276-a230-7f1224c14246.png" width=1000px height=600px/>
+<img src="https://user-images.githubusercontent.com/97473935/190192814-12d40d6d-998c-45b4-9cb8-cb8a75fb8cf1.png" width=1000px height=800px/>
+
+
 ### Project 1 -- Lapce Software Tool
 [Lapce Text Editor](https://github.com/lapce/lapce.git)
 
