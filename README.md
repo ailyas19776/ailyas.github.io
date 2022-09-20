@@ -52,3 +52,7 @@
 
 ### Project 16 -- Database Creation, Insertion, and Deletion
 [SQL Source Files](https://github.com/ailyas19776/SQL-Database/)
+
+### Project 17 -- MongoDB and NoSQL: Database Creation, Insertion, and Deletion
+[NoSQL Source Files](https://drive.google.com/drive/folders/1Zpx-hOSltIYM4CtnM9t0aafSZSa8d9mt?usp=sharing)
+
