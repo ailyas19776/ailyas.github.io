@@ -1,7 +1,7 @@
 # ailyas19776.github.io
 
 ### Resume
-<a href="https://user-images.githubusercontent.com/97473935/197400375-634760ca-f809-483d-a111-9292744c6422.png"> Link for Resume </a>
+<a href="https://user-images.githubusercontent.com/97473935/197898017-fab28382-854a-4a6e-a3a7-10eeb72bfd8b.png"> Link for Resume </a>
 
 
 ### Project 1 -- Lapce Software Tool
