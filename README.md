@@ -1,8 +1,7 @@
 # ailyas19776.github.io
 
 ### Resume
-<a href="https://user-images.githubusercontent.com/97473935/197898017-fab28382-854a-4a6e-a3a7-10eeb72bfd8b.png"> Link for Resume </a>
-
+<a href="https://github.com/ailyas19776/ailyas.github.io/assets/97473935/abe4bc23-dcc5-4bd7-98fc-67bb2dbf69d4"> Link for Resume </a>
 
 ### Project 1 -- Lapce Software Tool
 [Lapce Text Editor](https://github.com/lapce/lapce.git)
